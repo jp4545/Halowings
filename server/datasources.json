@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "Halowings": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "halowing",
+    "password": "",
+    "name": "Halowings",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
